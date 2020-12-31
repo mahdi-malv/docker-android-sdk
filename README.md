@@ -1,4 +1,4 @@
-# Docker Android SDK container
+# Android SDK docker image
 > View on [DockerHub](https://hub.docker.com/r/mahdimalv/android-sdk)
 
 Made this image to be able to run CI testing with **Android studio Arctic Fox**.  

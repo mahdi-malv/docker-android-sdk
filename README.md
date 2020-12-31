@@ -1,6 +1,7 @@
 # Docker Android SDK container
 
-> Should be used for **Gradle 7.0** and Android studio Arctic Fox or later.
+Made this image to be able to run CI testing with **Android studio Arctic Fox**.  
+This version of Android studio requires **Java 11** that does not exists in many docker images I've found
 
 ## Contains
 - Android API 30

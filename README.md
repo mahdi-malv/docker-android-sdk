@@ -1,3 +1,5 @@
+> **DEPRECATED**: Consider using other updated image (such as [Circle CI's](https://hub.docker.com/r/circleci/android/tags) or [Tapsell's](https://hub.docker.com/r/tapsellorg/android-sdk/tags)) which are currently well maintained
+
 # Android SDK docker image
 > View on [DockerHub](https://hub.docker.com/r/mahdimalv/android-sdk)
 
